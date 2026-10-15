@@ -37,7 +37,7 @@ Most of the work went into the price list. It has seven service groups and eight
 
 | | Performance | Accessibility | Best practices | SEO |
 | :-- | :-: | :-: | :-: | :-: |
-| Mobile | 98 | 100 | 100 | 100 |
+| Mobile | 99 | 100 | 100 | 100 |
 | Desktop | 100 | 100 | 100 | 100 |
 
 PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. axe accessibility check: no violations. Structured data: `AutomotiveBusiness`, `Course`, `FAQPage`, `Service`.
